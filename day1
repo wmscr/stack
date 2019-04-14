@@ -1,0 +1,7 @@
+第一周 学习了python的变量，example：name = 13 常数变量，name = input()
+       输入 name= input("name:")
+       print("name")
+循环语句 if  else elis
+         while
+         for
+         
